@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Othmane Elatyqy</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/Agent-48/Agent-48/assets/77219591/d3005b22-11a5-4133-9939-ef44da900c75)
-">
+<img alt="Coder GIF" height=250 width=350 src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" />
+<br>
 
 
 
