@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Othmane Elatyqy</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/Agent-48/Agent-48/assets/77219591/d51c3f66-3df5-4521-9f2a-9dacaac884d5">
+<img align="right" alt="coding" width="400" src="https://github.com/Agent-48/Agent-48/assets/77219591/d3005b22-11a5-4133-9939-ef44da900c75)
+">
 
 
 
