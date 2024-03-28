@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Othmane Elatyqy</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
 
+<img align="right" alt="coding" width="400" src="https://github.com/Agent-48/Agent-48/assets/77219591/d51c3f66-3df5-4521-9f2a-9dacaac884d5">
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agent-48&label=Profile%20views&color=0e75b6&style=flat" alt="agent-48" /> </p>
 
 - 🔭 I’m currently working on **Personal and proffessional development**
